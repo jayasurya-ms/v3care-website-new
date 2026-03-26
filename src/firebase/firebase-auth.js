@@ -29,11 +29,6 @@ export { auth, RecaptchaVerifier, signInWithPhoneNumber };
 // VITE_RAZARPAY_KEY="rzp_test_6OPTIZsNbmHwoY"
 // VITE_SECRET_KEY="your_super_secret_key_125^$^ggjgg"
 
-
-
-
-
-
 // VITE_FIREBASE_API_KEY=AIzaSyAk4WgZpl2DuYxnfgYLCXEQKvVLK3hJ7S0
 // VITE_FIREBASE_AUTH_DOMAIN=v3careapp-1560246438112.firebaseapp.com
 // VITE_FIREBASE_DATABASE_URL=https://v3careapp-1560246438112.firebaseio.com
@@ -41,6 +36,4 @@ export { auth, RecaptchaVerifier, signInWithPhoneNumber };
 // VITE_FIREBASE_STORAGE_BUCKET=v3careapp-1560246438112.firebasestorage.app
 // VITE_FIREBASE_MESSAGING_SENDER_ID=857656837080
 
-
 // VITE_FIREBASE_APP_ID=1:857656837080:web:44cca1388e47bb39f5e8ad
-
